@@ -1,0 +1,14 @@
+package com.credibanco.assessment.library.proyect2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Proyect2Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Proyect2Application.class, args);
+	}
+	
+
+}
